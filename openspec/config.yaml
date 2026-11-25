@@ -1,0 +1,7 @@
+schema: spec-driven
+
+context: |
+    Language: Russian (ru-RU)
+    Write all OpenSpec artifacts in Russian, but:
+    - Keep technical terms like "API", "REST", "GraphQL" in English
+    - Code examples and file paths remain in English
